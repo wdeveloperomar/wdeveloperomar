@@ -53,13 +53,13 @@ I enjoy crafting clean UI/UX and collaborating on impactful projects.
 ### 1. [FitHaven](https://github.com/wdeveloperomar/fithaven)
 > A full MERN stack fitness platform with multi-user roles and Stripe payments.
 
-- **Live demo:** *(Add live link if deployed)*
+- **Live demo:** *(https://glowing-klepon-2fa4d9.netlify.app/)*
 - **Tech:** React, TailwindCSS, Node.js, Express.js, MongoDB, Firebase, Stripe
 - **Features:**
   - User roles: Admin, Trainer, Member
   - Booking & payment system with Stripe integration
   - Community forum for interaction  
-- ![FitHaven Screenshot](https://via.placeholder.com/600x300.png?text=FitHaven+Screenshot)
+- ![FitHaven Screenshot](https://i.ibb.co.com/LdRKgv0q/Fit-Haven-Home-07-28-2025-12-12-AM.png)
 
 ---
 
