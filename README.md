@@ -63,15 +63,15 @@ I enjoy crafting clean UI/UX and collaborating on impactful projects.
 
 ---
 
-### 2. [JobTrack](https://github.com/wdeveloperomar/jobtrack)
-> Job listing SPA allowing users to browse and filter jobs.
+### 2. [EchoPost](https://github.com/wdeveloperomar/jobtrack)
+> A fully responsive and feature-rich blog website developed using React, Firebase, and MongoDB.
 
-- **Live demo:** *(Add live link if deployed)*
+- **Live demo:** *(https://shimmering-cactus-f87c38.netlify.app/)*
 - **Tech:** React, TailwindCSS, Firebase, Node.js, MongoDB
 - **Features:**
-  - Filter and search jobs
+  - Filter and search blogs
   - Responsive and clean UI
-- ![JobTrack Screenshot](https://via.placeholder.com/600x300.png?text=JobTrack+Screenshot)
+- ![EchoPost Screenshot](https://i.ibb.co.com/spNmvP7V/Echo-Post-08-08-2025-07-02-PM.png)
 
 ---
 
