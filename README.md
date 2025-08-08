@@ -79,12 +79,12 @@ I enjoy crafting clean UI/UX and collaborating on impactful projects.
 > A personal portfolio website showcasing my projects, skills, and contact information.
 
 - **Live demo:** https://wdeveloperomar.github.io/my-port-folio/
-- **Tech:** React, TailwindCSS, JavaScript, GitHub Pages
+- **Tech:** HTML5, CSS, JavaScript, GitHub Pages
 - **Features:**
   - Responsive design optimized for all devices
   - Interactive project showcase with links to GitHub repos and live demos
   - Contact form integrated with email
-- ![Portfolio Screenshot](https://via.placeholder.com/600x300.png?text=Portfolio+Screenshot)
+- ![Portfolio Screenshot](https://i.ibb.co.com/QFC7YGQ2/OMAR-FARUK-08-08-2025-06-52-PM.png)
 
 ---
 
