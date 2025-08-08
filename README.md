@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Animated Banner" width="600" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQH2KhY2BbRWMA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729334877779?e=1757548800&v=beta&t=liEb4uuieurgEz3JVqrRGoDnThB3yTI3YmLVMocfmk4" alt="Animated Banner" width="600" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
