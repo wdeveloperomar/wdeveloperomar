@@ -58,24 +58,24 @@ Single-page job listing platform where users can explore and filter job opportun
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wdeveloperomar&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wdeveloperomar&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/omar-faruk-a70889280/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+    <img src="https://raw.githubusercontent.com/abranhe/animated-github-badges/master/badges/linkedin.gif" alt="LinkedIn" width="110"/>
   </a>
   <a href="mailto:omar.dev.official@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
+    <img src="https://raw.githubusercontent.com/abranhe/animated-github-badges/master/badges/gmail.gif" alt="Gmail" width="110"/>
   </a>
   <a href="https://wdeveloperomar.github.io/my-port-folio/?fbclid=IwY2xjawMCr9NleHRuA2FlbQIxMABicmlkETFTMnJJZlc0SllPallPMkRwAR78aYLD6Fh7-2xH9BMt0y90fiMb3MEY4wWamLyrGvi4_sIaG5K3qzg3_JHuOQ_aem_reQwjSEcIWkmOgwxtz37VQ#portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+    <img src="https://raw.githubusercontent.com/abranhe/animated-github-badges/master/badges/portfolio.gif" alt="Portfolio" width="110"/>
   </a>
   <a href="https://www.facebook.com/omorphotographer" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
+    <img src="https://raw.githubusercontent.com/abranhe/animated-github-badges/master/badges/facebook.gif" alt="Facebook" width="110"/>
   </a>
 </p>
 
