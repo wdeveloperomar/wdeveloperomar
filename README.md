@@ -24,7 +24,7 @@ I enjoy crafting clean UI/UX and collaborating on impactful projects.
 
 ## 🚀 Current Activities
 - Exploring **Next.js** and Server-side Rendering (SSR)
-- Developing a tourism website to showcase local attractions  
+- Developing a school management website (It's a real project) 
 - Learning advanced React concepts and state management  
 
 ---
@@ -75,8 +75,15 @@ I enjoy crafting clean UI/UX and collaborating on impactful projects.
 
 ---
 
-### 3. [Your Third Repo Name]
-> *(Add your third client-side repo details here with description, tech, features, live link and screenshot)*
+### 3. Portfolio](https://github.com/wdeveloperomar/jobtrack)
+> Job listing SPA allowing users to browse and filter jobs.
+
+- **Live demo:** *(Add live link if deployed)*
+- **Tech:** React, TailwindCSS, Firebase, Node.js, MongoDB
+- **Features:**
+  - Filter and search jobs
+  - Responsive and clean UI
+- ![JobTrack Screenshot](https://via.placeholder.com/600x300.png?text=JobTrack+Screenshot)
 
 ---
 
