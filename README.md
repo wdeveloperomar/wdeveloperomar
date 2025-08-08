@@ -50,33 +50,33 @@ Single-page job listing platform where users can explore and filter job opportun
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wdeveloperomar&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdeveloperomar&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wdeveloperomar&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdeveloperomar&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wdeveloperomar&theme=radical)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wdeveloperomar&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/omar-faruk-a70889280/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-</a>
-<a href="mailto:omar.dev.official@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://wdeveloperomar.github.io/my-port-folio/?fbclid=IwY2xjawMCr9NleHRuA2FlbQIxMABicmlkETFTMnJJZlc0SllPallPMkRwAR78aYLD6Fh7-2xH9BMt0y90fiMb3MEY4wWamLyrGvi4_sIaG5K3qzg3_JHuOQ_aem_reQwjSEcIWkmOgwxtz37VQ#portfolio" target="_blank">
-<img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://www.facebook.com/omorphotographer" target="_blank">
-<img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
-</a>
+  <a href="https://www.linkedin.com/in/omar-faruk-a70889280/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:omar.dev.official@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://wdeveloperomar.github.io/my-port-folio/?fbclid=IwY2xjawMCr9NleHRuA2FlbQIxMABicmlkETFTMnJJZlc0SllPallPMkRwAR78aYLD6Fh7-2xH9BMt0y90fiMb3MEY4wWamLyrGvi4_sIaG5K3qzg3_JHuOQ_aem_reQwjSEcIWkmOgwxtz37VQ#portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.facebook.com/omorphotographer" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 ---
