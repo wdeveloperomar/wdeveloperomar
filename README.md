@@ -50,7 +50,7 @@ I enjoy crafting clean UI/UX and collaborating on impactful projects.
 
 ## 📂 Featured Projects
 
-### 1. [FitHaven](https://github.com/wdeveloperomar/fithaven)
+### 1. [FitHaven](https://github.com/wdeveloperomar/fit-haven)
 > A full MERN stack fitness platform with multi-user roles and Stripe payments.
 
 - **Live demo:** *(https://glowing-klepon-2fa4d9.netlify.app/)*
