@@ -2,6 +2,12 @@
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
 <h3 align="center">💻 Frontend Developer | Crafting Clean, Modern & User-Friendly Web Apps</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Animated Banner" width="600" />
+</p>
+
+
+
 ---
 
 ## 🚀 About Me
