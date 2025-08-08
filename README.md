@@ -9,9 +9,9 @@
 ---
 
 ## 📍 Location & Contact
-- 🇧🇩 Based in Bangladesh
+- 🇧🇩 Based in Rajshahi, Bangladesh
 - 📫 Email: omar.dev.official@gmail.com
-- 📞 Contact: +880-XXXX-XXXXXX *(optional)*
+- 📞 Contact: +8801773933705
 
 ---
 
