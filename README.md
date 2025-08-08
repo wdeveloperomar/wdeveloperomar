@@ -58,7 +58,7 @@ Single-page job listing platform where users can explore and filter job opportun
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wdeveloperomar&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wdeveloperomar&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
