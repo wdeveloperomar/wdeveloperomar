@@ -75,15 +75,16 @@ I enjoy crafting clean UI/UX and collaborating on impactful projects.
 
 ---
 
-### 3. Portfolio](https://github.com/wdeveloperomar/jobtrack)
-> Job listing SPA allowing users to browse and filter jobs.
+### 3. [Portfolio](https://github.com/wdeveloperomar/my-port-folio)
+> A personal portfolio website showcasing my projects, skills, and contact information.
 
-- **Live demo:** *(Add live link if deployed)*
-- **Tech:** React, TailwindCSS, Firebase, Node.js, MongoDB
+- **Live demo:** https://wdeveloperomar.github.io/my-port-folio/
+- **Tech:** React, TailwindCSS, JavaScript, GitHub Pages
 - **Features:**
-  - Filter and search jobs
-  - Responsive and clean UI
-- ![JobTrack Screenshot](https://via.placeholder.com/600x300.png?text=JobTrack+Screenshot)
+  - Responsive design optimized for all devices
+  - Interactive project showcase with links to GitHub repos and live demos
+  - Contact form integrated with email
+- ![Portfolio Screenshot](https://via.placeholder.com/600x300.png?text=Portfolio+Screenshot)
 
 ---
 
