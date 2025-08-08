@@ -82,4 +82,4 @@ Single-page job listing platform where users can explore and filter job opportun
 ---
 
 <!-- Fun Animation -->
-![Snake animation](https://github.com/wdeveloperomar/wdeveloperomar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/wdeveloperomar/wdeveloperomar/blob/output/snake.svg)
